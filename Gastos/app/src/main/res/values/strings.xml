@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gastos</string>
+    <string name="register_button">Registrar medición</string>
+    <string name="meter_label">Medidor</string>
+    <string name="date_label">Fecha</string>
+    <string name="water">Agua</string>
+    <string name="electricity">Luz</string>
+    <string name="gas">Gas</string>
+</resources>
+

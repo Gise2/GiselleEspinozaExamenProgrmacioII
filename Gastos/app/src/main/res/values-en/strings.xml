@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expenses</string>
+    <string name="register_button">Register measurement</string>
+    <string name="meter_label">Meter</string>
+    <string name="date_label">Date</string>
+    <string name="water">Water</string>
+    <string name="electricity">Electricity</string>
+    <string name="gas">Gas</string>
+</resources>
